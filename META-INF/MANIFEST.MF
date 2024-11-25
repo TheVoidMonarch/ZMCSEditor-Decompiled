@@ -1,0 +1,5 @@
+   Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ miglayout-swing-5.2.jar miglayout-core-5.2.jar
+Rsrc-Main-Class: ui.ZMCView
+Class-Path: .
